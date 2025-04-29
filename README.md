@@ -1,5 +1,7 @@
 ## EXNO-3-DS
-
+NAME: OVIYA P
+REG NO:212223110033
+DATE:29/04/2025
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
